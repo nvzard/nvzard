@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nvzard/nvzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img alt="You got Rick rolled. Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/nvzard/nvzard/blob/master/nuclear-launch-codes.gif?raw=true" width="100%">
