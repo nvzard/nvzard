@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="You got Rick rolled. Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/nvzard/nvzard/blob/master/nuclear-launch-codes.gif?raw=true" width="100%">
+
+<img alt="You got Rick rolled. Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/nvzard/nvzard/blob/main/nuclear-launch-codes.gif?raw=true" width="100%">
